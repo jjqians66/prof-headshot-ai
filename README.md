@@ -112,8 +112,6 @@ prof_headshot/
 │   ├── routes/           # API endpoints
 │   ├── services/         # Gemini & Image services
 │   └── uploads/          # Temporary file storage
-├── prompt.md             # AI prompt documentation
-├── spec.md               # Project specification
 └── README.md             # This file
 ```
 
@@ -125,9 +123,7 @@ prof_headshot/
 
 ## 📝 Documentation
 
-- **[SETUP_BACKEND.md](SETUP_BACKEND.md)** - Detailed backend setup guide
-- **[prompt.md](prompt.md)** - AI prompts and prompt engineering guide
-- **[spec.md](spec.md)** - Complete project specification
+All documentation is contained in this README file.
 
 ## 🎯 Usage
 
